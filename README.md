@@ -1,6 +1,6 @@
 ## Boas Vindas ao meu Perfil 👋
 
-<!--
+
 Meu nome é Jair Gabriel
 - Estou estudando na plataforma Alura.
 - Estou me desenvolvendo na linguage Javascript
@@ -8,4 +8,4 @@ Meu nome é Jair Gabriel
 
 ## Você pode entrar em contato comigo 📧
 jair_gabriel15@hotmail.com
--->
+
